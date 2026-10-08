@@ -1,0 +1,8 @@
+seccage
+test
+*_static
+policy_test
+*.o
+*.out
+secret.txt
+*.zip

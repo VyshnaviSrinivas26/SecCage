@@ -1,0 +1,19 @@
+read allow
+write allow
+exit allow
+exit_group allow
+execve allow
+brk allow
+mmap allow
+munmap allow
+mprotect allow
+arch_prctl allow
+set_tid_address allow
+set_robust_list allow
+rseq allow
+getuid allow
+geteuid allow
+
+openat deny
+socket deny
+connect deny
