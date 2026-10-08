@@ -6,3 +6,4 @@ policy_test
 *.out
 secret.txt
 *.zip
+trace.txt
